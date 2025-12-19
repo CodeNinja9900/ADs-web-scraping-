@@ -1,10 +1,10 @@
 # ADs-web-scraping-
 A Python web scraper that extracts book product advertisements/listings from books.toscrape.com 
 
-##📚 BookScraper Pro
+📚 BookScraper Pro
 A simple Python web scraper that extracts book listings from books.toscrape.com — a practice website built for learning web scraping.
 
-##✨ Features
+✨ Features
 
 📖 Extracts book titles, prices, ratings, and availability
 
@@ -17,7 +17,7 @@ A simple Python web scraper that extracts book listings from books.toscrape.com 
 🎯 Perfect for beginners learning web scraping with BeautifulSoup
 
 
-##🛠️ Tech Stack
+🛠️ Tech Stack
 
 Python 3
 
